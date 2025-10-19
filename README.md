@@ -1,6 +1,8 @@
 # 800-Million-years-of-co-evolution-in-the-green-plant-lineage-the-case-of-LEUNIG-and-SEUSS
 ### Supplemental data for the scientific paper "800 Million years of co-evolution in the green plant lineage – the case of LEUNIG and SEUSS" (Garrecht et al.)
 
+---
+
 **Script 1: Extract alpha helices.py:**  
   Python script for extraction of α-helices from AlphaFold protein models via PyMol (Abramson et al., 2024; Schrödinger 2010).  
 
@@ -25,9 +27,10 @@
 **Script 8: BiFC merging and cropping.ijm:**  
   Fiji (ImageJ) macro to split and merge color channels for BiFC analysis (Schindelin et al., 2012).  
 
+---
 
 **Sources:**  
   Abramson, J., Adler, J., Dunger, J. et al. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. *Nature* 630, 493–500. https://doi.org/10.1038/s41586-024-07487-w  
-  Schindelin, J., Arganda-Carreras, I., Frise, E., Kaynig, V., Longair, M., Pietzsch, T., Preibisch, S., Rueden C, Saalfeld S, Schmid B, Tinevez JY, White DJ, Hartenstein V, Eliceiri K, Tomancak P, Cardona A. (2012). Fiji: an open-source platform for biological-image analysis. *Nat Methods*. 9(7):676-82. doi: 10.1038/nmeth.2019. PMID: 22743772; PMCID: PMC3855844.  
+  Schindelin, J., Arganda-Carreras, I., Frise, E., Kaynig, V., Longair, M., Pietzsch, T., Preibisch, S., Rueden, C., Saalfeld, S., Schmid, B., Tinevez, J. Y., White, D. J., Hartenstein, V., Eliceiri, K., Tomancak, P., Cardona, A. (2012). Fiji: an open-source platform for biological-image analysis. *Nat Methods*. *9*(7), 676-82. https://doi.org/10.1038/nmeth.2019 
   Schrödinger, LLC. (2010). The PyMOL Molecular Graphics System, Version 3.0.  
   Wagih, O. and Parts, L. (2021). gitter: Quantification of Pinned Microbial Cultures.  
