@@ -1,5 +1,5 @@
 # 800-Million-years-of-co-evolution-in-the-green-plant-lineage-the-case-of-LEUNIG-and-SEUSS
-### Supplemental data for the scientific paper "800 Million years of co-evolution in the green plant lineage – the case of LEUNIG and SEUSS" (Garrecht et al.)
+Supplemental data for the scientific paper "800 Million years of co-evolution in the green plant lineage – the case of LEUNIG and SEUSS" (Garrecht et al.)
 
 ---
 
@@ -30,7 +30,7 @@
 ---
 
 **Sources:**  
-  Abramson, J., Adler, J., Dunger, J. et al. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. *Nature* 630, 493–500. https://doi.org/10.1038/s41586-024-07487-w  
-  Schindelin, J., Arganda-Carreras, I., Frise, E., Kaynig, V., Longair, M., Pietzsch, T., Preibisch, S., Rueden, C., Saalfeld, S., Schmid, B., Tinevez, J. Y., White, D. J., Hartenstein, V., Eliceiri, K., Tomancak, P., Cardona, A. (2012). Fiji: an open-source platform for biological-image analysis. *Nat Methods*. *9*(7), 676-82. https://doi.org/10.1038/nmeth.2019 
-  Schrödinger, LLC. (2010). The PyMOL Molecular Graphics System, Version 3.0.  
-  Wagih, O. and Parts, L. (2021). gitter: Quantification of Pinned Microbial Cultures.  
+- Abramson, J., Adler, J., Dunger, J. et al. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. *Nature* 630, 493–500. https://doi.org/10.1038/s41586-024-07487-w  
+- Schindelin, J., Arganda-Carreras, I., Frise, E., Kaynig, V., Longair, M., Pietzsch, T., Preibisch, S., Rueden, C., Saalfeld, S., Schmid, B., Tinevez, J. Y., White, D. J., Hartenstein, V., Eliceiri, K., Tomancak, P., Cardona, A. (2012). Fiji: an open-source platform for biological-image analysis. *Nat Methods*. *9*(7), 676-82. https://doi.org/10.1038/nmeth.2019 
+- Schrödinger, LLC. (2010). The PyMOL Molecular Graphics System, Version 3.0.  
+- Wagih, O. and Parts, L. (2021). gitter: Quantification of Pinned Microbial Cultures.  
