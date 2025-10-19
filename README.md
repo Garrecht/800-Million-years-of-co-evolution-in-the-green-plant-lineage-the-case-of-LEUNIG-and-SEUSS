@@ -27,7 +27,7 @@
 
 
 **Sources:**  
-  Abramson, J., Adler, J., Dunger, J. et al. Accurate structure prediction of biomolecular interactions with AlphaFold 3. Nature 630, 493–500 (2024). https://doi.org/10.1038/s41586-024-07487-w  
-  Schindelin J, Arganda-Carreras I, Frise E, Kaynig V, Longair M, Pietzsch T, Preibisch S, Rueden C, Saalfeld S, Schmid B, Tinevez JY, White DJ, Hartenstein V, Eliceiri K, Tomancak P, Cardona A. Fiji: an open-source platform for biological-image analysis. Nat Methods. 2012 Jun 28;9(7):676-82. doi: 10.1038/nmeth.2019. PMID: 22743772; PMCID: PMC3855844.  
-  Schrödinger, L. L.C., "The PyMOL Molecular Graphics System, Version 3.0" (2010).  
-  Wagih, Omar and Parts, Leopold, "gitter: Quantification of Pinned Microbial Cultures" (2021).  
+  Abramson, J., Adler, J., Dunger, J. et al. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. *Nature* 630, 493–500. https://doi.org/10.1038/s41586-024-07487-w  
+  Schindelin, J., Arganda-Carreras, I., Frise, E., Kaynig, V., Longair, M., Pietzsch, T., Preibisch, S., Rueden C, Saalfeld S, Schmid B, Tinevez JY, White DJ, Hartenstein V, Eliceiri K, Tomancak P, Cardona A. (2012). Fiji: an open-source platform for biological-image analysis. *Nat Methods*. 9(7):676-82. doi: 10.1038/nmeth.2019. PMID: 22743772; PMCID: PMC3855844.  
+  Schrödinger, LLC. (2010). The PyMOL Molecular Graphics System, Version 3.0.  
+  Wagih, O. and Parts, L. (2021). gitter: Quantification of Pinned Microbial Cultures.  
