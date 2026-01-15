@@ -1,5 +1,5 @@
 # 800-Million-years-of-co-evolution-in-the-green-plant-lineage-the-case-of-LEUNIG-and-SEUSS
-Supplemental data for the scientific paper "800 million years of co-evolution in the green plant lineage – the case of LEUNIG and SEUSS transcriptional co-repressors" by Garrecht, J.; Rössner, C.; Sreechakram, V. N. S.; Li, Q.; Braun, S; Golz; J. F.; Becker; A.
+Supplemental data for the scientific paper "800 million years of co-evolution in the green plant lineage – the case of LEUNIG and SEUSS transcriptional co-regulators" by Garrecht, J.; Rössner, C.; Sreechakram, V. N. S.; Li, Q.; Braun, S; Golz; J. F.; Becker; A.
 
 [STATUS: In submission]
 
