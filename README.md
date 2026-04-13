@@ -45,7 +45,7 @@ Supplemental data for the scientific paper "800 million years of co-evolution in
 
 **Sources:**  
 - Abramson J, Adler J, Dunger J, Evans R, Green T, Pritzel A, Ronneberger O, Willmore L, Ballard AJ, Bambrick J, et al. 2024. Accurate structure prediction of biomolecular interactions with AlphaFold 3. *Nature*. 630(8016):493–500.
-- Kumar M, Michael S, Alvarado-Valverde J, Zeke A, Lazar T, Glavina J, et al. 2023. ELM—the Eukaryotic Linear Motif resource—2024 update. *Nucleic acids research* 52(D1):D442-D455.
+- Kumar M, Michael S, Alvarado-Valverde J, Zeke A, Lazar T, Glavina J, Nagy-Kanta E, Donagh JM, Kalman ZE, Pascarelli S, et al. 2023. ELM—the Eukaryotic Linear Motif resource—2024 update. *Nucleic acids research* 52(D1):D442-D455.
 - Schindelin J, Arganda-Carreras I, Frise E, Kaynig V, Longair M, Pietzsch T, Preibisch S, Rueden C, Saalfeld S, Schmid B, et al. 2012. Fiji: an open-source platform for biological-image analysis. *Nature methods*. 9(7):676–682.
 - Schrödinger LLC. 2010. The PyMOL Molecular Graphics System, Version 3.0.
 - Wagih O, Parts L. 2021. gitter: Quantification of Pinned Microbial Cultures.
