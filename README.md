@@ -24,10 +24,13 @@ Supplemental data for the scientific paper "800 million years of co-evolution in
   Fiji (ImageJ) macro for semi-automatic cropping of Y2H assay plate pictures (Schindelin et al., 2012).  
 
 **Script 7: Y2H analysis.R:**  
-  R script using the gitter package to measure yeast colony sizes and to determine presence/absence of protein interactions in a Y2H assay (Wahih and Parts, 20221).  
+  R script using the gitter package to measure yeast colony sizes and to determine presence/absence of protein interactions in a Y2H assay (Wahih and Parts, 2021).  
 
 **Script 8: BiFC merging and cropping.ijm:**  
   Fiji (ImageJ) macro to split and merge color channels for BiFC analysis (Schindelin et al., 2012).
+
+**Script 9: CorrelationPlots.R:**  
+  R script for the creation of correlation plots of gene expression data.
 
 ---
 
