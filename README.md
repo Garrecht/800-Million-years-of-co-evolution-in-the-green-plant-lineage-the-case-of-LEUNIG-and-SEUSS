@@ -38,7 +38,7 @@ Supplemental data for the scientific paper "800 million years of co-evolution in
 **Script 11: CorrelationPlots.R:**  
   R script for the creation of correlation plots of gene expression data.
 
-**Script 11: Complex visualization.R**
+**Script 12: Complex visualization.R**
   R script for the visualization of AlphaFold protein models via PyMol (Schrödinger, 2010; Abramson et al., 2024).
 
 ---
